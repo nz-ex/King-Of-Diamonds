@@ -43,6 +43,7 @@ git clone https://github.com/nz-ex/king-of-diamonds-lan.git
 
 cd king-of-diamonds-lan
 
+do `npm install -D @vitejs/plugin-react` before opening the batch file
 
 
 2. Open the file below.
