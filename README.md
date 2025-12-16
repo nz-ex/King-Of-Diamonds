@@ -36,3 +36,7 @@ Players connect over the same Wi‑Fi/network, secretly choose numbers, and lose
 
 ## Installation
 
+###  – Windows batch script
+
+There should be a file named `start-lan.bat` in the project folder.
+Run this and there should be 2 consoles that open; One with the ip and one with the backend.
