@@ -40,7 +40,7 @@ Players connect over the same Wi‑Fi/network, secretly choose numbers, and lose
 1. Clone or download this repo
 
 git clone https://github.com/your-username/king-of-diamonds-lan.git
-cd king-of-diamonds-lan
+  cd king-of-diamonds-lan
 
 ### Windows batch script
 
