@@ -41,10 +41,11 @@ Players connect over the same Wi‑Fi/network, secretly choose numbers, and lose
 
 git clone https://github.com/your-username/king-of-diamonds-lan.git
 cd king-of-diamonds-lan
-2. Install dependencies
 
-npm install
+### Windows batch script
 
-text
+There should be a file named `start-lan.bat` in the project folder
+Run it and if 2 terminals open, 1 is the backend and the other is where you can see the IP to connect with.
+
 
 ---
